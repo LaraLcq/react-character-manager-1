@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import '../css/App.css';
-import Navigation from './establishments/Navigation';
 import Routes from './Routes';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faPlus } from '@fortawesome/free-solid-svg-icons'
