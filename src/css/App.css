@@ -119,7 +119,9 @@
     font-size: 18px;
     color: #007b5e !important;
 }
-
+.card-text{
+  overflow: hidden;height: 95px;
+}
 .frontside .card .card-title,
 .backside .card .card-title {
     color: #007b5e !important;

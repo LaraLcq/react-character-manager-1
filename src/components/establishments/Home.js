@@ -73,7 +73,7 @@ export default class Home extends Component {
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid" src={"data:image;base64," + character.image} onError={(e)=>{e.target.onerror = null; e.target.src="https://img3.cliparto.com/pic/s/256180/5361912-user-icon-handcuffs-icon.jpg"}} alt={character.name}/></p>
-                                    <h4 class="card-title">{character.name}</h4>
+                                    <h4 class="card-title" >{character.name}</h4>
                                     <p class="card-text">{character.shortDescription}</p>
                                 </div>
                             </div>
