@@ -148,6 +148,10 @@
 .ofc{
   object-fit: cover;
 }
+
+.vh-50{
+  height:50vh;
+}
 /* css for Home */
 
 /* css for Edit and add */
