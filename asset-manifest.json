@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-character-manager/static/css/main.f97e8811.chunk.css",
+  "main.css": "/react-character-manager/static/css/main.225fea73.chunk.css",
   "main.js": "/react-character-manager/static/js/main.849e42fd.chunk.js",
   "main.js.map": "/react-character-manager/static/js/main.849e42fd.chunk.js.map",
   "runtime~main.js": "/react-character-manager/static/js/runtime~main.0c53a67b.js",
@@ -8,8 +8,8 @@
   "static/js/2.6ef12b8c.chunk.js": "/react-character-manager/static/js/2.6ef12b8c.chunk.js",
   "static/js/2.6ef12b8c.chunk.js.map": "/react-character-manager/static/js/2.6ef12b8c.chunk.js.map",
   "index.html": "/react-character-manager/index.html",
-  "precache-manifest.5d9ec850a783b6b494ff3b24669e84b5.js": "/react-character-manager/precache-manifest.5d9ec850a783b6b494ff3b24669e84b5.js",
+  "precache-manifest.fdf3890a586c600efabd57e7c86e4e67.js": "/react-character-manager/precache-manifest.fdf3890a586c600efabd57e7c86e4e67.js",
   "service-worker.js": "/react-character-manager/service-worker.js",
   "static/css/2.5d99afa1.chunk.css.map": "/react-character-manager/static/css/2.5d99afa1.chunk.css.map",
-  "static/css/main.f97e8811.chunk.css.map": "/react-character-manager/static/css/main.f97e8811.chunk.css.map"
+  "static/css/main.225fea73.chunk.css.map": "/react-character-manager/static/css/main.225fea73.chunk.css.map"
 }
