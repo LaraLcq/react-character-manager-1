@@ -2,10 +2,24 @@
   "name": "react-character-manager",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bovealexandre.github.io/react-character-manager",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.16",
+    "@fortawesome/free-solid-svg-icons": "^5.8.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
+    "i": "^0.3.6",
+    "npm": "^6.9.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-markdown": "^4.0.6",
+    "react-router": "^5.0.0",
+    "react-router-bootstrap": "^0.24.4",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
