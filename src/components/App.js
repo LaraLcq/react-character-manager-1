@@ -13,7 +13,7 @@ class App extends Component {
 
     return (
       <React.Fragment>
-        <img className="vh-100 w-100 ofc"src="https://geeko.lesoir.be/wp-content/uploads/sites/58/2015/06/marvel.png" alt="superheros"/>
+        <img className="vh-50 w-100 ofc"src="https://geeko.lesoir.be/wp-content/uploads/sites/58/2015/06/marvel.png" alt="superheros"/>
         <div className="container">
           <Routes />
 
