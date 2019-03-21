@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Axios from 'axios';
+import {Link} from 'react-router-dom'
 
 export default class Add extends Component {
   constructor(props) {
@@ -137,6 +138,9 @@ export default class Add extends Component {
         return (
         <div>
           <React.Fragment>
+            <Link to="/">
+              Return to home
+            </Link>
             <h1>
               Add a new super hero
             </h1>

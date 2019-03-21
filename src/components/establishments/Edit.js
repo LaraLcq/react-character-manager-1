@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {Link} from 'react-router-dom'
 import Axios from 'axios';
 
 export default class Edit extends Component {
@@ -141,6 +142,9 @@ export default class Edit extends Component {
         }
         return (
         <React.Fragment>
+          <Link to="/">
+            Return to home
+          </Link>
           <h1>
             Editing : {this.state.super_hero_name}
           </h1>
