@@ -64,7 +64,7 @@ export default class Home extends Component {
         return (
           <React.Fragment >
           <h5 class="section-title h1">OUR TEAM</h5>
-          <div class="row">
+          <div class="row justify-content-center">
             {character.map(character => (
                 <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" onTouchStart="this.classList.toggle('hover');">
